@@ -13,7 +13,7 @@ COMMAND:
 * GIT CHECKOUT .name. - переход на нужную ветку
 
 ---
-
+---
 ## GIT BRANCHES MERGING
 
 ## GIT BRANCHES CONFLICTS
